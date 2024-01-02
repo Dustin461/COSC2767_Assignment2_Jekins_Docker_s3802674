@@ -40,7 +40,8 @@
       <br>
       <span class="badge badge-danger">My Hobbies: Going to gym, playing badminton,reading book,...</span>
       <br>
-      <span class="badge badge-warning">My favorite programming languages: Java, Python</span>
+      <span class="badge badge-warning">My favorite programming languages: 
+Java, Python,JavaScript</span>
       <!-- You only need to change these information, ends here! -->
       
 
